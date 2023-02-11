@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HKo1+fTjIvERQJS0V/5ceUnLFqMA36LKhF4nOtKbd0MrnOLWzKBozvhXRvxriP49sbPZxD+I4qrqmAONKUG5VQ==",
+  "dgSpecHash": "QQIij2Rl/n5TD2eXZMY4rBNaDkYyLnwOcdkeRCZ6k5dRKzekb5BpKObZFp1HakDYpPxmJBzn8UVEkODqt8AhrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pratik\\Projects\\Export\\ExpoProjClientApi\\ClientApi\\ClientApi\\ClientApi.csproj",
+  "projectFilePath": "C:\\Users\\Pratik\\Projects\\Export\\Server\\ExpoProjClientApi\\ClientApi\\ClientApi\\ClientApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pratik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Pratik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pratik\\Projects\\Export\\ExpoProjClientApi\\ClientApi\\ClientApi\\ClientApi.csproj",
+      "projectUniqueName": "C:\\Users\\Pratik\\Projects\\Export\\Server\\ExpoProjClientApi\\ClientApi\\ClientApi\\ClientApi.csproj",
       "projectName": "ClientApi",
-      "projectPath": "C:\\Users\\Pratik\\Projects\\Export\\ExpoProjClientApi\\ClientApi\\ClientApi\\ClientApi.csproj",
+      "projectPath": "C:\\Users\\Pratik\\Projects\\Export\\Server\\ExpoProjClientApi\\ClientApi\\ClientApi\\ClientApi.csproj",
       "packagesPath": "C:\\Users\\Pratik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pratik\\Projects\\Export\\ExpoProjClientApi\\ClientApi\\ClientApi\\obj\\",
+      "outputPath": "C:\\Users\\Pratik\\Projects\\Export\\Server\\ExpoProjClientApi\\ClientApi\\ClientApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pratik\\AppData\\Roaming\\NuGet\\NuGet.Config",
